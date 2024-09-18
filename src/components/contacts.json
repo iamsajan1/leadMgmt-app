@@ -1,0 +1,6 @@
+[
+  { "serialNumber": 1, "name": "Santosh", "phoneNumber": "971-114-1197", "course":"BCA" },
+  { "serialNumber": 2, "name": "Vikash", "phoneNumber": "870-000-9406",  "course":"BCA" },
+  { "serialNumber": 3, "name": "Kori", "phoneNumber": "874-487-3992", "course":"BCA"  },
+  {}
+]
